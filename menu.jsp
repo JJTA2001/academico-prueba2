@@ -13,7 +13,10 @@
     </head>
     <body>
         <h1>Menu Principal</h1>
-        1.Portal del alumno<br>
+        1.Portal del alumngio<br>
         2.Aula virtual<br>
+        3.Correo Electronico<br>
+        4.Biblioteca<br>
+        5.OBU<br>
     </body>
 </html>
